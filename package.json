@@ -1,7 +1,7 @@
 {
   "name": "comp2156",
   "version": "1.0.0",
-  "description": "comp 1256 lab exercise",
+  "description": "comp2156 lab exercise",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -11,8 +11,9 @@
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
   },
+  
   "keywords": [],
-  "author": "Rainbow_Yan",
+  "author": "Rainbow Yan",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^2.0.1",
